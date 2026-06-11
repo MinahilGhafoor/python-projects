@@ -1,0 +1,9 @@
+{
+    "2026-6-4": [
+        {"subject": "Math", "duration": 60, "notes": ["3*3=9", "5*5=25"]},
+        {"subject": "English", "duration": 30, "notes": ["noun"]}
+    ],
+    "2026-6-5": [
+        {"subject": "Python", "duration": 10, "notes": ["print(\"Hello World!\")"]}
+    ]
+}
